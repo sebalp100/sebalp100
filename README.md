@@ -6,9 +6,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **JavaScript, React and Ruby.**
+- 🌱 I’m currently working with **JavaScript, Ruby, React, and Ruby on Rails.**
 
-- 👯 I’m looking to collaborate on **projects involving JavaScript.**
+- 👯 I’m looking to collaborate on **projects involving Front-End development.**
 
 <br>
 
